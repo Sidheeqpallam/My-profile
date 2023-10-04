@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aboobacker Sidhique ks</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Snapbook**
+- 🔭 I’m currently working on **Stitching app**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **sidheeqpallam111@gmail.com**
 
